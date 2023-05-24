@@ -5,7 +5,7 @@ var notesDB = require('./db/db.json');
 const { randomUUID } = require('crypto');
 const bp = require('body-parser')
 
-const PORT = 443;
+const PORT = 3001;
 
 const app = express();
 
