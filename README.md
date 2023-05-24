@@ -22,6 +22,8 @@ You will need to download the files localy from Gighub and run 'npm install' in 
 After inquirer has been downloaded all the user needs to do to run the project is type 'npm start' and then it will start the server.
 
 Navigate to http://localhost:3001/ to get to the landing page
+
+Project is currently deployed at 
     
 ## Credits
 - https://akhromieiev.com/req-body-undefined-express/ for help with making sure data is not undefined
