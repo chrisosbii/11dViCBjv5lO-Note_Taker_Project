@@ -28,20 +28,20 @@ Project is currently deployed at [link](http://shielded-atoll-41922.herokuapp.co
 Screenshots for proof of usability:
 
 UI endpoint checks:
-![get landing page](./assets/images/noteTaker_landingPage.JPG)
-![get notes page](./assets/images/noteTaker_NotesPage.JPG)
+![get landing page](./images/noteTaker_landingPage.JPG)
+![get notes page](./images/noteTaker_NotesPage.JPG)
 
 API endpoint checks:
 1. get all:
-![get all notes](./assets/images/noteTaker_GET_api_notes.JPG)
+![get all notes](./images/noteTaker_GET_api_notes.JPG)
 2. post a new note:
-![post a new note](./assets/images/noteTaker_POST_api_notes.JPG)
+![post a new note](./images/noteTaker_POST_api_notes.JPG)
 3. get all to check in new one was added:
-![verify post worked](./assets/images/noteTaker_GET_api_notes_validate_post.JPG)
+![verify post worked](./images/noteTaker_GET_api_notes_validate_post.JPG)
 4. delete the new note:
-![delete a note](./assets/images/noteTaker_DELETE_api_notes.JPG)
+![delete a note](./images/noteTaker_DELETE_api_notes.JPG)
 5. check that the deleted one is no longer in the database:
-![verify delete worked](./assets/images/noteTaker_GET_api_notes_validate_delete.JPG)
+![verify delete worked](./images/noteTaker_GET_api_notes_validate_delete.JPG)
 
 ## Credits
 - https://akhromieiev.com/req-body-undefined-express/ for help with making sure data is not undefined
