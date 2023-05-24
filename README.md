@@ -22,7 +22,9 @@ You will need to download the files localy from Gighub and run 'npm install' in 
 After inquirer has been downloaded all the user needs to do to run the project is type 'node index.js' and then it will start prompting the user for information regarding their project.
     
 ## Credits
-    
+- https://akhromieiev.com/req-body-undefined-express/ for help with making sure data is not undefined
+- https://akhromieiev.com/req-body-undefined-express/ for some things on deleting from an array
+- https://stackoverflow.com/questions/68236597/what-is-a-good-way-to-generate-a-random-32-byte-buffer-in-node-js-javascript for help with the crypto uuid input
 
     
 ## License

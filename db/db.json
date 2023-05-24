@@ -1,7 +1,12 @@
 [
     {
-        "id": "3b836ed9-ae08-4211-9aef-27a8255fe724",
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "first title",
+        "text": "first note text",
+        "id": "8af5ad4d-9783-4ce4-9069-bb505fb2398f"
+    },
+    {
+        "title": "clean up room",
+        "text": "clean my room",
+        "id": "108d2805-1945-495b-9165-fcb2a1ad4f57"
     }
 ]
