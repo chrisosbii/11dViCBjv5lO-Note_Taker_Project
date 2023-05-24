@@ -19,7 +19,9 @@ You will need to download the files localy from Gighub and run 'npm install' in 
     
 ## Usage
     
-After inquirer has been downloaded all the user needs to do to run the project is type 'node index.js' and then it will start prompting the user for information regarding their project.
+After inquirer has been downloaded all the user needs to do to run the project is type 'npm start' and then it will start the server.
+
+Navigate to http://localhost:3001/ to get to the landing page
     
 ## Credits
 - https://akhromieiev.com/req-body-undefined-express/ for help with making sure data is not undefined
@@ -32,9 +34,13 @@ After inquirer has been downloaded all the user needs to do to run the project i
 [![License: Hippocratic 2.1](https://img.shields.io/badge/License-Hippocratic_2.1-lightgrey.svg)](https://firstdonoharm.dev)
     
 ## Tests
-    
+no tests
 
     
 ## Questions
     
-I decided that it would be a good idea not to have input validations so that the user can still use the README.md structure as a template for their own input. I regret that the project is not currently able to take in lists or multiple line input from the user and would like to see the ability to do that in the future but that might mean a change to how the prompts are generated.
+Ran into issues with the notes page not loading as the path was having issues. Found out that you can remove the path value and it was able to get to the page just fine.
+
+Ran into another issue with body being undefined. Was able to be fixed by adding a middle ware call
+
+Ids where made using crypto's uuid generator
