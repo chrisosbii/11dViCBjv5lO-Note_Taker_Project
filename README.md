@@ -23,7 +23,7 @@ After inquirer has been downloaded all the user needs to do to run the project i
 
 Navigate to http://localhost:3001/ to get to the landing page
 
-Project is currently deployed at [link](http://shielded-atoll-41922.herokuapp.com:3001/)
+Project is currently deployed at [link](https://shielded-atoll-41922.herokuapp.com/)
 
 Screenshots for proof of usability:
 
